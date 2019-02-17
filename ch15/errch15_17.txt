@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "F:/Book/電腦書/Python入門/範例檔案/ch15/ch15_17.py", line 6, in division
+    return x / y
+ZeroDivisionError: division by zero
+Traceback (most recent call last):
+  File "F:/Book/電腦書/Python入門/範例檔案/ch15/ch15_17.py", line 6, in division
+    return x / y
+TypeError: unsupported operand type(s) for /: 'str' and 'str'

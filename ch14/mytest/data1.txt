@@ -1,0 +1,60 @@
+['list.bat', 'list.txt', 'Thumbs.db', '[FZsub]「orange」[GB][720P].mp4', '[JYFanSUB][Cardcaptor Sakura Clear Card Hen][01][720P][BIG5].mp4', '[JyFanSub][Kizumonogatari][03][BIG5][720P].mp4']
+
+['[HYSUB]25-sai no Joshikousei[08_R][BIG5_MP4][1280X720].mp4']
+
+['3D Kanojo Real Girl 01.mp4']
+
+['[HYSUB]Alice or Alice[01][BIG5_MP4][1280X720].mp4']
+
+['Darling in the FranXX (Medialink)-07[流星MORATORIUM][BIG5][1080P].mp4', 'Darling in the FranXX (SHIGURE)-08[男生X女生][BIG5][720P].mp4', 'Darling in the FranXX (SHIGURE)-09[TRIANGLE BOMB][BIG5][720P].mp4', 'Darling in the FranXX (SHIGURE)-12[花園／起始之庭][BIG5][720P].mp4', '[SHIGURE][darli-fra][10][CHT][720p].mp4', '[SHIGURE][darli-fra][11][CHT][720p].mp4']
+
+[]
+
+['OVERLORD Ⅱ (DMG)-SP01[混亂的開始][BIG5][720P].mp4', 'OVERLORD Ⅱ (DMG)-SP02[異世界的社員們][BIG5][720P].mp4', 'OVERLORD Ⅱ (DMG)-SP03[集結、幹部們][BIG5][720P].mp4', 'OVERLORD Ⅱ (DMG)-SP04[驚人的忠誠][BIG5][720P].mp4', 'OVERLORD Ⅱ (DMG)-SP05[評定的部長][BIG5][720P].mp4', 'OVERLORD Ⅱ (DMG)-SP06[拯救者們][BIG5][720P].mp4']
+
+['[UHA-WINGS][Pop Team Epic][11][x264 720p][CHT].mp4']
+
+['Slow Start (LKSUB)-07[咕嚕嚕的手腕][GB][720P].mp4', 'Slow Start (LKSUB)-08[花名的朋友們][GB][720P].mp4', 'Slow Start (Nekomoe kissaten)-10[鯊魚表妹][BIG5][720P].mp4', 'Slow Start (Nekomoe kissaten)-12 END[緩慢地開始][BIG5][720P].mp4', '[DMG][Slow Start][09][720P][BIG5].mp4', '[DMG][Slow Start][11][720P][BIG5].mp4']
+
+[]
+
+['Kakuriyo no Yadomeshi 01 .mp4']
+
+['[DMG&Kamigami][Hakumei_to_Mikochi][03][720P][BIG5].mp4', '[DMG&Kamigami][Hakumei_to_Mikochi][04][720P][BIG5].mp4', '[DMG&Kamigami][Hakumei_to_Mikochi][05][720P][BIG5].mp4', '[DMG&Kamigami][Hakumei_to_Mikochi][06][720P][BIG5].mp4', '[DMG&Kamigami][Hakumei_to_Mikochi][07][720P][BIG5].mp4', '妖精森林的小不點 (Airota&Nekomoe kissaten)-08[漫長的一天][BIG5][720P].mp4', '妖精森林的小不點 (Airota&Nekomoe kissaten)-09[水底的節奏 執著的染物][BIG5][720P].mp4', '妖精森林的小不點 (Airota&Nekomoe kissaten)-10[竹之湯 蘿蔔與菸斗][BIG5][720P].mp4', '妖精森林的小不點 (DHR&MakariHoshiyume)-11[通宵的火車 雨和飛蠅][BIG5][720P].mp4', '妖精森林的小不點 (DHR&MakariHoshiyume)-12 END[紅髮的記憶][BIG5][720P].mp4']
+
+['[Nekomoe kissaten][Miira no Kaikata][09][BIG5][720P].mp4', '[Nekomoe kissaten][Miira no Kaikata][10][BIG5][720P].mp4', '小木乃伊到我家 (Nekomoe kissaten)-08[新的不可思議的地方 不可思議的朋友][BIG5][720P].mp4']
+
+['[DMG][Ramen Daisuki Koizumi-san][04][720P][CHT].mp4', '[DMG][Ramen Daisuki Koizumi-san][05][720P][CHT].mp4', '【DMG】愛吃拉麵的小泉同學  [03] [BIG5] [720P].mp4']
+
+['Thumbs.db', '[DMG][Renai_Boukun][03][720P][BIG5].mp4', '[DMG][Renai_Boukun][05][720P][BIG5].mp4', '[JyFanSub][Renai Boukun][04][BIG5][720p].mp4', '[JyFanSub][Renai Boukun][06][BIG5][720p].mp4', '[JyFanSub][Renai Boukun][07][BIG5][720p].mp4', '[JyFanSub][Renai Boukun][08][BIG5][720p].mp4', '[JyFanSub][Renai Boukun][09][BIG5][720p].mp4']
+
+['[Nekomoe kissaten&Airota][Yuru Camp][01][1280x720][x264_AAC][CHT].mp4', '[Nekomoe kissaten&Airota][Yuru Camp][02][1280x720][x264_AAC][CHT].mp4', '[Nekomoe kissaten&Airota][Yuru Camp][03][1280x720][x264_AAC][CHT].mp4', '[Nekomoe kissaten&Airota][Yuru Camp][04][1280x720][x264_AAC][CHT].mp4']
+
+['比宇宙還遠的地方 (DHR&MakariHoshiyume)-12[比宇宙還遠的地方][BIG5][720P].mp4', '比宇宙還遠的地方 (DHR&MakariHoshiyume)-13 END[一定會再次啟程][BIG5][720P].mp4']
+
+['[DMG][Beatless][03][720P][BIG5].mp4', '[DMG][Beatless][04][720P][BIG5].mp4', '[DMG][Beatless][05.5][720P][BIG5].mp4', '[DMG][Beatless][05][720P][BIG5].mp4', '沒有心跳的少女 BEATLESS (DMG)-02[模擬駭客][BIG5][720P].mp4', '沒有心跳的少女 BEATLESS (DMG)-06[Higgins Village][BIG5][720P].mp4']
+
+['[JYFanSub][Clione no Akari][01][BIG5][720P].mp4', '[JYFanSub][Clione no Akari][02][BIG5][720P].mp4', '[JYFanSub][Clione no Akari][03][BIG5][720P].mp4', '[JYFanSub][Clione no Akari][04][BIG5][720P].mp4', '[JYFanSub][Clione no Akari][05][BIG5][720P].mp4', '[JYFanSub][Clione no Akari][06][BIG5][720P].mp4', '[JYFanSub][Clione no Akari][07][BIG5][720P].mp4', '[JYFanSub][Clione no Akari][08][BIG5][720P].mp4', '[JYFanSub][Clione no Akari][09][BIG5][720P].mp4', '[JYFanSub][Clione no Akari][10][BIG5][720P].mp4', '[JYFanSub][Clione no Akari][11][BIG5][720P].mp4']
+
+['[JyFanSub][Record of Grancrest War][01][BIG5][720p][MP4].mp4', '[JyFanSub][Record of Grancrest War][02][BIG5][720p][MP4].mp4', '[JyFanSub][Record of Grancrest War][03][BIG5][720p][MP4].mp4', '[JyFanSub][Record of Grancrest War][04][BIG5][720p][MP4].mp4', '[JyFanSub][Record of Grancrest War][05][BIG5][720p][MP4].mp4']
+
+['[LF2][Tachibana-kan to Lie Angle][01][1280x720][x264_AAC][CHT].mp4']
+
+['[DMG][Marchen_Madchen][03][720P][BIG5].mp4', '[DMG][Marchen_Madchen][04][720P][BIG5].mp4', '[DMG][Marchen_Madchen][05][720P][BIG5].mp4', '【DMG】童話魔法使 [02] [BIG5] [720P].mp4', '童話魔法使 (DMG)-06[灰姑娘不會回頭][BIG5][720P].mp4', '童話魔法使 (DMG)-07[老實人的寓言故事][BIG5][720P].mp4', '童話魔法使 (DMG)-08[拔出大蘿蔔][BIG5][720P].mp4']
+
+['粗點心戰爭2 (JYFanSub)-11[本壘打棒冰與中獎棒與雪與…][BIG5][720P].mp4']
+
+['[DMG][Violet_Evergarden][01][720P][BIG5].mp4', '[DMG][Violet_Evergarden][02][720P][BIG5].mp4', '[Dymy][Violet Evergarden][03][BIG5][1280X720].mp4', '[Dymy][Violet Evergarden][04][BIG5][1280X720].mp4', '【DMG】紫羅蘭永恆花園 [11] [BIG5] [720P].mp4', '紫羅蘭永恆花園 (DMG)-09[薇爾莉特·伊芙加登][BIG5][1080P].mp4', '紫羅蘭永恆花園 (DMG)-10[所愛之人一直在守候著][BIG5][1080P].mp4', '紫羅蘭永恆花園 (HYSUB)-05[寫替人結緣的書信嗎？][BIG5][720P].mp4', '紫羅蘭永恆花園 (HYSUB)-06[在某處的星空下][BIG5][720P].mp4', '紫羅蘭永恆花園 (HYSUB)-07[\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000][BIG5][720P].mp4', '紫羅蘭永恆花園 (UHA-WINGS)-08[][BIG5][1080P].mp4']
+
+[]
+
+['hanamy32@eyny.txt', 'Kantai Collection 1080p 8bit movie.ass', 'Kantai Collection 1080p 8bit movie.mp4', 'Thumbs.db', '字幕不同步解決方法.png', '聲音不同步解決方法.png']
+
+['衛宮家今天的飯 (BiliBili)-02[鮭魚蘑菇黃油燒烤][GB][1080P].mp4', '衛宮家今天的飯 (BiliBili)-03[春日的散壽司][GB][1080P].mp4', '衛宮家今天的飯 (FLsnow)-01[除夕蕎麥麵][CHT][720p].mp4']
+
+['賽馬娘 第1話 夢想的大門 720P.mp4', '賽馬娘 第2話 突如其來的出道戰 720P.mp4']
+
+['[FZSD&MakariHoshiyume][Toji_no_Miko][01][BIG5][720P][x264_AAC].mp4', '[FZSD&MakariHoshiyume][Toji_no_Miko][02][BIG5][720P][x264_AAC].mp4', '[FZSD&MakariHoshiyume][Toji_no_Miko][03][BIG5][720P][x264_AAC].mp4', '[FZSD&MakariHoshiyume][Toji_no_Miko][04][BIG5][720P][x264_AAC].mp4', '[FZSD&MakariHoshiyume][Toji_no_Miko][05][BIG5][720P][x264_AAC].mp4', '[FZSD&MakariHoshiyume][Toji_no_Miko][06][BIG5][720P][x264_AAC].mp4', '[FZSD&MakariHoshiyume][Toji_no_Miko][07][BIG5][720P][x264_AAC].mp4', '設定解說ver.EP01.CHT.pdf']
+
+['龍王的工作！ (DHR)-03[研修會的考試][BIG5][720P].mp4', '龍王的工作！ (DMG)-02[有徒弟的日常生活][BIG5][720P].mp4', '龍王的工作！ (DMG)-04[另一名愛][BIG5][720P].mp4']
+

@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "F:/Book/電腦書/Python入門/範例檔案/ch15/ex6.py", line 17, in <module>
+    passWord(fn)
+  File "F:/Book/電腦書/Python入門/範例檔案/ch15/ex6.py", line 9, in passWord
+    raise Exception('文章長度不足')
+Exception: 文章長度不足
+Traceback (most recent call last):
+  File "F:/Book/電腦書/Python入門/範例檔案/ch15/ex6.py", line 17, in <module>
+    passWord(fn)
+  File "F:/Book/電腦書/Python入門/範例檔案/ch15/ex6.py", line 11, in passWord
+    raise Exception('文章長度太長')
+Exception: 文章長度太長
+Traceback (most recent call last):
+  File "F:/Book/電腦書/Python入門/範例檔案/ch15/ex6.py", line 17, in <module>
+    passWord(fn)
+  File "F:/Book/電腦書/Python入門/範例檔案/ch15/ex6.py", line 9, in passWord
+    raise Exception('文章長度不足')
+Exception: 文章長度不足
+Traceback (most recent call last):
+  File "F:/Book/電腦書/Python入門/範例檔案/ch15/ex6.py", line 17, in <module>
+    passWord(fn)
+  File "F:/Book/電腦書/Python入門/範例檔案/ch15/ex6.py", line 9, in passWord
+    raise Exception('文章長度不足')
+Exception: 文章長度不足
